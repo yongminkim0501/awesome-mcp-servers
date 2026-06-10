@@ -78,6 +78,7 @@
 | **Perplexity** | [github.com/ppl-ai/modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) | Perplexity Sonar API 연결 - AI 검색 및 답변 | `npx -y @anthropic/mcp-server-perplexity` |
 | **Knowledge Graph** | [github.com/shaneholloman/mcp-knowledge-graph](https://github.com/shaneholloman/mcp-knowledge-graph) | 로컬 지식 그래프를 통한 Claude 영구 메모리 | `npx -y mcp-knowledge-graph` |
 | **OpenAI** | [github.com/openai/mcp-server](https://github.com/openai/mcp-server) | OpenAI 모델 통합 및 API 연동 | `npx -y @openai/mcp-server` |
+| **RunAPI** | [github.com/runapi-ai/mcp](https://github.com/runapi-ai/mcp) | 이미지, 비디오, 음악/오디오, TTS, LLM 작업과 모델 검색을 위한 RunAPI MCP 서버 | `npx -y @runapi.ai/mcp` |
 
 ---
 
