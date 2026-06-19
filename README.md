@@ -93,6 +93,7 @@
 | **Linear** | [linear.app/docs/mcp](https://linear.app/docs/mcp) | 프로젝트/이슈 관리 - 스타트업에 최적화 | `npx -y mcp-remote https://mcp.linear.app/mcp` |
 | **HubSpot** | [github.com/hubspot/hubspot-mcp-server](https://github.com/hubspot/hubspot-mcp-server) | HubSpot CRM 연동 - 연락처, 회사, 딜 관리 | `npx -y @hubspot/mcp-server` |
 | **Datadog** | [github.com/DataDog/datadog-mcp-server](https://github.com/DataDog/datadog-mcp-server) | 애플리케이션 모니터링 및 인프라 관측 | `npx -y @datadog/mcp-server` |
+| **NotFair** | [github.com/nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | SEO, Google Ads, Meta Ads 전용 오픈소스 Claude Code 에이전트 스킬 - Google Ads MCP, Meta Ads MCP, Google Search Console MCP, Google Analytics (GA4) MCP 연동 | `claude mcp add` (설정 가이드 참고) |
 
 ---
 
