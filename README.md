@@ -55,6 +55,7 @@
 
 | 이름 | 링크 | 설명 | 설치 명령어 |
 |------|------|------|-------------|
+| **Agent QA** | [github.com/vostride/agent-qa](https://github.com/vostride/agent-qa) | 자연어 웹·모바일 테스트의 정의, 검증, 실행 및 결과 분석을 지원하는 소스 공개형 MCP 서버 | `npx -y agent-qa mcp` |
 | **Playwright** (Microsoft) | [github.com/microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | 크로스 브라우저 자동화 및 웹 스크래핑 (접근성 기반) | `npx -y @playwright/mcp@latest` |
 | **Puppeteer** | [github.com/modelcontextprotocol/servers-archived/src/puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) | Puppeteer 기반 브라우저 자동화 및 스크린샷 | `npx -y @modelcontextprotocol/server-puppeteer` |
 | **Firecrawl** | [github.com/firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) | 웹 크롤링, 스크래핑 및 데이터 추출 | `npx -y firecrawl-mcp` |
