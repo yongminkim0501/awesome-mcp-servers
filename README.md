@@ -48,6 +48,7 @@
 | **Linear** | [linear.app/docs/mcp](https://linear.app/docs/mcp) | Linear 이슈, 스프린트, 프로젝트 관리 | `npx -y mcp-remote https://mcp.linear.app/mcp` |
 | **Atlassian (Jira/Confluence)** | [github.com/sooperset/mcp-atlassian](https://github.com/sooperset/mcp-atlassian) | Jira 이슈 및 Confluence 문서 통합 관리 | `uvx mcp-atlassian` |
 | **Mailgun** | [github.com/mailgun/mailgun-mcp-server](https://github.com/mailgun/mailgun-mcp-server) | Mailgun API를 통한 이메일 전송 및 관리 | `npx -y @mailgun/mcp-server` |
+| **BulkPublish** | [github.com/azeemkafridi/bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api) | AI 에이전트를 위한 소셜 미디어 콘텐츠 계획, 검토, 예약 및 일괄 게시. [소셜 미디어 콘텐츠 스킬](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) 및 [문서](https://app.bulkpublish.com/docs) 참조 | `https://mcp.bulkpublish.com/mcp` |
 
 ---
 
