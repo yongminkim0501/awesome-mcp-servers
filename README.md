@@ -25,6 +25,7 @@
 
 | 이름 | 링크 | 설명 | 설치 명령어 |
 |------|------|------|-------------|
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 | **PostgreSQL** | [github.com/modelcontextprotocol/servers/src/postgres](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) | PostgreSQL 데이터베이스 읽기 전용 접근 및 쿼리 실행 | `npx -y @modelcontextprotocol/server-postgres postgresql://localhost/mydb` |
 | **SQLite** | [github.com/modelcontextprotocol/servers/src/sqlite](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) | SQLite 데이터베이스 조작 및 비즈니스 인사이트 분석 | `uvx mcp-server-sqlite --db-path /path/to/db.sqlite` |
 | **MongoDB** (Official) | [github.com/mongodb-js/mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | MongoDB 및 Atlas 클러스터 공식 MCP 서버 | `npx -y mongodb-mcp-server@latest` |
